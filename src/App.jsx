@@ -9,7 +9,8 @@ function App() {
     <>
       <div>
             
-          <Nav></Nav>     
+          <Nav></Nav> 
+              
       </div>
       
       
